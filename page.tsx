@@ -131,7 +131,7 @@ export default function Page() {
               </div>
               <div className="mx-auto flex w-full items-center justify-center p-4 sm:p-8">
                 <Image
-                  src="/placeholder.svg?height=400&width=300"
+                  src="/(6)mainmenu1.jpg?height=400&width=300"
                   width={300}
                   height={400}
                   alt="Amethyst App Interface"
